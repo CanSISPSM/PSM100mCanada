@@ -1,0 +1,31 @@
+GTGRP,GG_code,GG_ID
+melanic,MB,1
+eutric,EB,2
+sombric,SB,3
+dystric,DYB,4
+brown,BC,5
+dark brown,DBC,6
+black,BLC,7
+dark gray,DGC,8
+turbic,TC,9
+static,SC,10
+organic,OC,11
+luvic,LG,12
+humic,HG,13
+gleysol,G,14
+gray brown,GBL,15
+gray,GL,16
+fibrisol,F,17
+mesisol,M,18
+humisol,H,19
+folisol,FO,20
+humic,HP,21
+ferro-humic,FHP,22
+humo-ferric,HFP,23
+regosol,R,24
+humic,HR,25
+solonetz,SZ,26
+solodized solonetz,SS,27
+solod,SO,28
+vertic,V,30
+humic vertisol,HV,31
